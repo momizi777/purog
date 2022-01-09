@@ -13,7 +13,7 @@ body {background-color:rgba(80,160,255,1);}
 .note {
   font-size:16px;
   width: 0px;
-  padding:0em;
+  padding:20em;
   background: linear-gradient(#ccc 1px, transparent 1px) white;
   background-size: auto 2.5em;
   line-height: 2.5em;
