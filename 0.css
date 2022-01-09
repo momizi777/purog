@@ -1,0 +1,25 @@
+body {background-color: rgba(80,160,255,0.7);}
+h1 {font-size:45px; background-color: rgba(70,255,80,1); width:640px; padding:20px 50px;}
+ .se{
+border-bottom:solid;
+border-color:rgba(0,0,0,1);
+border-width:5px;}
+button {
+  margin:20px;
+  width         : 550px;
+  display       : inline-block;
+  border-radius : 8%;
+  font-size     : 26pt;
+  text-align    : center;
+  cursor        : pointer;
+  padding       : 10px 20px;
+  background    : rgba(255,255,150,1);
+  color         : rgba(0,0,0,1);
+  line-height   : 1em;
+  transition    : .3s;
+  border        : 2px solid rgba(255,255,0,1);
+}
+.button:hover {
+  color         : rgba(255,255,0,1);
+  background    : rgba(70,200,80,1);
+}
