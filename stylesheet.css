@@ -1,0 +1,45 @@
+h1 {background-color:rgba(70,255,100,1);
+    margin :0;
+}
+#h11{text-shadow:6px 6px rgba(0,0,0,0.3);}
+#h12 {background-color:rgba(70,255,100,1);
+   font-size:25px;
+　 margin :0;
+   padding :15px;
+}
+body {background-color:rgba(80,160,255,1);}
+
+.note {
+  font-size:16px;
+  width: 380px;
+  padding:0em;
+  background: linear-gradient(#ccc 1px, transparent 1px) white;
+  background-size: auto 2.5em;
+  line-height: 2.5em;
+  border-bottom: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  overflow: hidden;
+  padding-left:1em;
+  text-indent:-0.5em;
+}
+
+.button {
+  display       : inline-block;
+  border-radius : 20%;          /* 角丸       */
+  font-size     : 21pt;        /* 文字サイズ */
+  text-align    : center;      /* 文字位置   */
+  cursor        : pointer;     /* カーソル   */
+  padding       : 17px 44px;   /* 余白       */
+  background    : #d8b6f8;     /* 背景色     */
+  color         : #ffffff;     /* 文字色     */
+  line-height   : 1em;         /* 1行の高さ  */
+  transition    : .3s;         /* なめらか変化 */
+  box-shadow    : 6px 6px #666666;  /* 影の設定 */
+  border        : 2px solid #d8b6f8;    /* 枠の指定 */
+}
+.button:hover {
+  box-shadow    : none;        /* カーソル時の影消去 */
+  color         : #d8b6f8;     /* 背景色     */
+  background    : #ffffff;     /* 文字色     */
+}
