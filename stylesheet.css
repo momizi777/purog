@@ -11,7 +11,7 @@ body {background-color:rgba(80,160,255,1);}
 
 .note {
   font-size:16px;
-  width: 300px;
+  width: 250px;
   padding:0em;
   background: linear-gradient(#ccc 1px, transparent 1px) white;
   background-size: auto 2.5em;
@@ -20,8 +20,6 @@ body {background-color:rgba(80,160,255,1);}
   border-left: 1px solid #ccc;
   border-right: 1px solid #ccc;
   overflow: hidden;
-  padding-left:1em;
-  text-indent:-0.5em;
 }
 
 .button {
