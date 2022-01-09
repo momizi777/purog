@@ -1,5 +1,6 @@
 h1 {background-color:rgba(70,255,100,1);
     margin:0;
+    padding:10px;
 }
 #h11{text-shadow:6px 6px rgba(0,0,0,0.3);}
 #h12 {background-color:rgba(70,255,100,1);
@@ -11,7 +12,7 @@ body {background-color:rgba(80,160,255,1);}
 
 .note {
   font-size:16px;
-  width: 100px;
+  width: 0px;
   padding:0em;
   background: linear-gradient(#ccc 1px, transparent 1px) white;
   background-size: auto 2.5em;
